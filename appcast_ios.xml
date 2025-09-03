@@ -3,11 +3,11 @@
     <channel>
         <title>Sleeman Fridge - iOS Test</title>
         <item>
-            <title>Version 40.0.0</title>
+            <title>Version 41.0.0</title>
             <description>Test version for iOS.</description>
             <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/app/sleeman-fridge/id=com.sleeman.sleemanfridge" 
-                       sparkle:version="40.0.0" 
+                       sparkle:version="41.0.0" 
                        sparkle:os="ios" />
         </item>
     </channel>
