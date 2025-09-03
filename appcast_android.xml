@@ -3,11 +3,11 @@
     <channel>
         <title>Sleeman Fridge - Android Test</title>
         <item>
-            <title>Version 36.0.1</title>
+            <title>Version 30.0.0</title>
             <description>Test version for Android.</description>
             <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.sleeman.app.dev" 
-                       sparkle:version="36.0.1" 
+                       sparkle:version="30.0.0" 
                        sparkle:os="android" />
         </item>
     </channel>
