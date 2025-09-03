@@ -1,0 +1,1 @@
+# sm-appcast-test
