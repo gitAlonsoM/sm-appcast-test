@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Sleeman Fridge - iOS Test</title>
+        <item>
+            <title>Version 39.0.0</title>
+            <description>Test version for iOS.</description>
+            <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/app/sleeman-fridge/id=com.sleeman.sleemanfridge" 
+                       sparkle:version="39.0.0" 
+                       sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
