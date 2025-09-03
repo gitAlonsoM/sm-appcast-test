@@ -4,7 +4,10 @@
         <title>Sleeman Fridge - Android Test</title>
         <item>
             <title>Version 30.0.1</title>
-            <description></description>
+            <description>
+                Se requiere una actualización importante para continuar.
+                [Minimum supported app version: 30.0.1]
+            </description>
             <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
            
             <enclosure url="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&ab_channel=RickAstley" 
