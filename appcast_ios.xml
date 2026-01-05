@@ -6,7 +6,7 @@
             <title>Version 41.0.0</title>
             <description>Test version for iOS.</description>
             <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&ab_channel=RickAstley" 
+            <enclosure url="https://www.youtube.com/" 
                        sparkle:version="41.0.0" 
                        sparkle:os="ios" />
         </item>
